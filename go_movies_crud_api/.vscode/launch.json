@@ -1,0 +1,12 @@
+{
+  "configurations": [
+  {
+    "name": "GO run server",
+    "type": "f5anything",
+    "request": "launch",
+    "command": "go run .",
+    "terminalName": "GO server",
+    "showTerminal": true,
+  }
+  ]
+}
